@@ -21,6 +21,7 @@ body{
     margin: 20px;
     font-size: 14px;
     line-height: 1.6;
+    color: red;
 }
 
 ul{
@@ -46,7 +47,7 @@ a:hover{
     color: blue;
 }
 
-header{ 
+header{
     padding-bottom: 15px;
     margin-bottom: 20px;
     border-bottom: 2px solid #ddddff;
